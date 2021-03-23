@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3e3Iq+Olh/dPlZhQXbBjI+1OkRCSO4TcxwNxJXAKinJhghcBkm+3k+k+6GI+chir4TT/9+IDPoOtsUMqabVHaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin.pineda\\Desktop\\F-Sharp\\recursive_function\\recursive_function\\recursive_function.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin.pineda\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

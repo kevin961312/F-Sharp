@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6e+AsQfACLfZDOm3gmVGh/lS18lRNx+AKBTLl46dIpUjLV7Lmls4/hcUkqP/4u7ww+GE6SLeVLjLrj7UJpD+Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin.pineda\\Desktop\\F-Sharp\\HelloWorld\\HelloWorld\\HelloWorld.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin.pineda\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
