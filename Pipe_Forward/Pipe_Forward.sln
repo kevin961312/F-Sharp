@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Pipe_Forward", "Pipe_Forward\Pipe_Forward.fsproj", "{0F15B30C-9171-4370-AC4A-3C2ED994E87B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F15B30C-9171-4370-AC4A-3C2ED994E87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F15B30C-9171-4370-AC4A-3C2ED994E87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F15B30C-9171-4370-AC4A-3C2ED994E87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F15B30C-9171-4370-AC4A-3C2ED994E87B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CED09D2F-DB19-4169-93E7-7642EADF26F1}
+	EndGlobalSection
+EndGlobal
