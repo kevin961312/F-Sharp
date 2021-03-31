@@ -6,9 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="ComposerParsing.fsx" />
-    <Compile Include="signal_generator.fsx" />
-    <None Include="wave_packer.fsx" />
+    <Compile Include="Option.fsx" />
   </ItemGroup>
 
 </Project>

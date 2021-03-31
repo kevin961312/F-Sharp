@@ -6,9 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="ComposerParsing.fsx" />
-    <Compile Include="signal_generator.fsx" />
-    <None Include="wave_packer.fsx" />
+    <None Include="DotNetException.fsx" />
+    <None Include="CustomException.fsx" />
+    <None Include="TryFinally.fsx" />
+    <Compile Include="TryWith.fsx" />
   </ItemGroup>
+
+  <ItemGroup />
 
 </Project>
