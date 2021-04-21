@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fAfy5voSvWtFfVflSxWmtBtp1GQ8nmvcWu6WCCKtOxsWgzF/hQnmjvGAUib/ETltABSukYWjjE8Q9p8fXVyKwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin.pineda\\Desktop\\F-Sharp\\SetsAndMaps\\SetsAndMaps\\SetsAndMaps.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin.pineda\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

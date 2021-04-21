@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="PatternList.fs" />
+    <Compile Include="Groupby.fs" />
+    <Compile Include="Pick.fs" />
+    <Compile Include="Unfold.fs" />
+    <Compile Include="CreationSequence.fs" />
+  </ItemGroup>
+
+</Project>

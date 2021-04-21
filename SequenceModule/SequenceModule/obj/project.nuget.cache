@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7rKL99g0AznXFeuFBZLoTCcFBDNuLu9BaOzdOo4goMvQBy7oeHHoS5o+LTff/sRCovw3nRcL/aNX5DZLOBgVvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin.pineda\\Desktop\\F-Sharp\\SequenceModule\\SequenceModule\\SequenceModule.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin.pineda\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ko0PDK4EtSo4npdCgESeue8xCge3BAkgxRsPxFEEKdsYVIGHZqjE6XealFzy10wXSDqxMxnmY3HkZNvBNUKSYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin.pineda\\Desktop\\F-Sharp\\XMLBNBDEMO\\XMLBNBDEMO\\XMLBNBDEMO.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin.pineda\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

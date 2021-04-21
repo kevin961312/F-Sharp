@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vOR0Zgb4qAsiusRJAb+tK9g4JjVQfTjdq3C42NBMXnlmLstSYx37FQeM+D2g0OTqCiVhr4IaEXAbW+mItOtQ3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin.pineda\\Desktop\\F-Sharp\\DictionaryModule\\DictionaryModule\\DictionaryModule.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin.pineda\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

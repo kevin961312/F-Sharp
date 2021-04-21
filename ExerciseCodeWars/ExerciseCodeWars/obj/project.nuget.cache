@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EDBCNvZ6/y5jjvgpecgLLXpwFVAimrXrRIXJlne2jXDIa9V+DLFITdw80bFl68GSN5DBRLWMpfSnIb8QhKSBDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin.pineda\\Desktop\\F-Sharp\\ExerciseCodeWars\\ExerciseCodeWars\\ExerciseCodeWars.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin.pineda\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

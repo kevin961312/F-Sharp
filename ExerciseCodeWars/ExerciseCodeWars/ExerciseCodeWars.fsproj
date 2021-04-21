@@ -6,6 +6,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="ScalingSquaredStrings.fs" />
+    <Compile Include="BuildingStringsFromaHash.fs" />
+    <Compile Include="MostFrequentWeekdays.fs" />
+    <Compile Include="SumofOddNumbers.fs" />
+    <Compile Include="GetSum.fs" />
+    <Compile Include="TortoiseRacing.fs" />
+    <Compile Include="TriangularNumbers.fs" />
+    <Compile Include="HighestRankNumberArray.fs" />
+    <Compile Include="Meeting.fs" />
+    <Compile Include="Potatoes.fs" />
+    <Compile Include="ContainAllRots.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
